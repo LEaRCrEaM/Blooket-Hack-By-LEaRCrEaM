@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Blooket Hack
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/LEaRCrEaM/Blooket-Hack-By-LEaRCrEaM
 // @version      Alpha
 // @description  Hack for Blooket
 // @author       LEaRCrEaM
