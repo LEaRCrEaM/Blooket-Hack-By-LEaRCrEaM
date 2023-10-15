@@ -15,10 +15,10 @@ List the key features and functionalities of your Blooket hack.
 
 ## Getting Started
 
-Provide instructions on how to use or set up your JavaScript-based hack.
+Instructions on how to use or set up your JavaScript-based hack.
 
-1. Clone this repository to your local machine:
+1. Copy or download content from:
 
    ```bash
    git clone https://github.com/LEaRCrEaM/Blooket-Hack.git
-```
+# TELL ME WHAT I SHOULD ADD!!
